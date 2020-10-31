@@ -1,3 +1,20 @@
+RESPONSIVE PORTFOLIO:
+
+The URLs of the deployed applications: https://sosingh1226.github.io/02_ResponsivePortfolio/ https://sosingh1226.github.io/02_ResponsivePortfolio/portfolio.html https://sosingh1226.github.io/02_ResponsivePortfolio/contact.html https://sosingh1226.github.io/02_ResponsivePortfolio/submit.html
+
+The URLs of the GitHub repositories: https://github.com/sosingh1226/02_ResponsivePortfolio
+
+The requirement of this project covered all necessary topics and features those are important in Bootstrap. Definitely required a lot of GooleFi realizing there could be multiple solutions to one problem.
+
+I felt this expercise was fun and very rewarding once you get to see the results especially when I tried using my final web link on different devices (laptop, phone and ipad)
+
+Challenges: Navbar Hamburger dorpdown was a challenge for me. Another point of struggle was wrapping text around the image within a container (About/ Index Page).
+
+UPDATE: Yoo Hoo!! Finally found a way to wrap text around the image!!
+
+Lots to learn!
+
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
