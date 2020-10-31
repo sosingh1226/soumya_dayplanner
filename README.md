@@ -7,11 +7,15 @@ The URLs of the GitHub repositories: https://github.com/sosingh1226/soumya_daypl
 Creating a Day Planner was indeed very stressful at first, every step required harmony between JavaScript, CSS & HTML files.
 
 NEW LEARNINGS! 
-<!-- moment.js (worked like magic!) -->
-<!-- used forEach for for the first time in a whole program -->
-<!-- used jQuery to add and edit the CSS past of the program -->
-<!-- use of Local Storage in a practical example was very helpful and grea to know -->
-<!-- understood the way to persist data -->
+1. moment.js (was super cool!)
+
+2. used forEach for for the first time in a whole program
+
+3. used jQuery to add and edit the CSS past of the program
+
+4. use of Local Storage in a practical example was very helpful and grea to know
+
+5. understood the way to persist data
 
 THANK YOU!
 
