@@ -36,8 +36,9 @@ $(document).ready(function () {
   
       console.log("here we do timecheck: ", timeCheck)
       if (timeCheck === null) window.localStorage.setItem(time, "")
-      // if the event content is empty, display empty
-      if (timeCheck.length > 0) $(timeId).attr("value", window.localStorage.getItem(time))
+      else if (timeCheck.length > 0) {
+        $(timeId).attr("value", window.localStorage.getItem(time))
+      }
       // if the event content has text, display the text and save
     })
   
